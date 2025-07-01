@@ -1,1 +1,1 @@
-# This is a full steck social media app in Mern stack
+# This is a full stack social media app in Mern stack
