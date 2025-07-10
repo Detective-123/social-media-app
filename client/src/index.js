@@ -15,7 +15,7 @@ import {
   PURGE,
   REGISTER
 } from "redux-persist";
-import localStorage from 'redux-persist/lib/storage';
+import storage from 'redux-persist/lib/storage';
 import { PersistGate } from 'redux-persist/integration/react';
 
 const persistConfig = { key: "root", storage, version: 1, };
